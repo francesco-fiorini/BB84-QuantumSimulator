@@ -1,4 +1,4 @@
-# Quantum Key Distribution (QKD) BB84 Implementation with Qiskit
+# Quantum Key Distribution (QKD) BB84 under partial-intercept attack Qiskit Implementation
 
 This software includes a Qiskit implementation of the BB84 quantum key distribution protocol in the case of a partial intercept-resend eavesdropping attack. The network scenario also incorporates channel noise, modeled with the corresponding readout error probability of the receiver backends used. The implementation explicitly calculates the Quantum Bit Error Rate (QBER) level detected between the sender and receiver and computes the estimated interception density from this. For this purpose, a new Excel file is created and updated with the calculated performance parameters. 
 This security analysis is intended to be useful in reference to an intrusion detection system for the protocol.
