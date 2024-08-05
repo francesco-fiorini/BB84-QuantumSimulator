@@ -14,7 +14,7 @@ This security analysis is intended to be useful in reference to an intrusion det
 Quantum Key Distribution (QKD) is a method for secure communication that uses quantum mechanics to ensure the privacy of cryptographic keys. The BB84 protocol is one of the first and most well-known QKD protocols. This implementation demonstrates how QKD can be affected by an intercept-resend attack and incorporates realistic channel noise using Qiskit.
 
 ## Installation and Usage
-For installation, please refer to the quantum-solver library presented by Daniel Escanez-Exposito in https://github.com/jdanielescanez/quantum-solver. The code for this implementation is intended to replace the existing BB84 folder in `quantum-solver/src/crypto`. Therefore, it is required to replace the mentioned folder with the current package.
+For installation, please refer to the quantum-solver library presented by Daniel Escanez-Exposito in https://github.com/jdanielescanez/quantum-solver. The code for this implementation is intended to replace the existing BB84 folder in `quantum-solver/src/crypto`. Therefore, it is required to replace the mentioned folder with the current package bb84.
 
 ## Features
 - Implementation of the BB84 QKD protocol
