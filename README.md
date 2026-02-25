@@ -10,6 +10,7 @@ This project is based on and extends the functionalities of the quantum-solver p
 - [Introduction](#introduction)
 - [Installation and Usage](#installation-and-usage)
 - [Features](#features)
+- [Citation](#citation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,6 +27,23 @@ For installation, please refer to the quantum-solver library presented by Daniel
 - Calculation of Quantum Bit Error Rate (QBER)
 - Estimation of interception density
 - Execution time report
+
+## Citation
+
+If you use this repository, please cite:
+
+@article{fiorini2026_bb84_threshold_detection,
+  title   = {Threshold-based eavesdropper detection for partial intercept-resend attack in noisy BB84 quantum key distribution},
+  author  = {Fiorini, Francesco and Garroppo, Rosario G. and Pagano, Michele},
+  journal = {Computer Networks},
+  volume  = {277},
+  pages   = {112058},
+  year    = {2026},
+  issn    = {1389-1286},
+  doi     = {10.1016/j.comnet.2026.112058}
+}
+
+Paper: https://doi.org/10.1016/j.comnet.2026.112058
 
 ## Contributing
 Contributions are welcome! Please contact francesco.fiorini@phd.unipi.it for suggested changes.
