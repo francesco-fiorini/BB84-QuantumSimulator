@@ -4,6 +4,8 @@ This software includes a Qiskit implementation of the BB84 quantum key distribut
 This security analysis is intended to be useful in reference to an intrusion detection system which exploits the estimated interception rate value.
 This project is based on and extends the functionalities of the quantum-solver project (https://github.com/jdanielescanez/quantum-solver).
 
+**The full reference paper is available here:** https://doi.org/10.1016/j.comnet.2026.112058
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation and Usage](#installation-and-usage)
